@@ -1,0 +1,17 @@
+input {
+    
+}
+
+
+/* 749 */
+
+@media screen and (max-width: 749px) {
+    .send-dev {
+min-width: 93%;
+    }
+}
+@media screen and (max-width: 427px) {
+    .send-dev {
+min-width: 100%;
+    }
+}
